@@ -36,8 +36,8 @@ The application follows a modular Micro-Service architecture:
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/CodeRulerNo1/Wellness-RAG-Micro-App
+
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
